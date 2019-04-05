@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/LocalizerSample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/LocalizerSample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/LocalizerSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LocalizerSample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/LocalizerSample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/LocalizerSample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to localize WPF Scheduler UI with the Localizer class descendant
